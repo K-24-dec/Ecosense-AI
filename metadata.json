@@ -1,0 +1,12 @@
+{
+  "name": "EcoSphere AI",
+  "description": "EcoSense AI is an intelligent full-stack sustainability platform for waste management, renewable energy, water conservation, environmental monitoring, and circular manufacturing — powered by Gemini AI and interactive analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
